@@ -6,15 +6,16 @@ The firmware is (and will be) written in Arduino, but feel free to build your ow
 
 
 Current state:
-— Schematics and board layout not finished
-— Firmware v0.1.2 working but only with rudimentary features
+
+* Schematics and board layout not finished
+* Firmware v0.1.2 working but only with rudimentary features
 
 
 Things that will be implemented in future versions:
 
-— access point mode with wifi manager
-— MAX31865 based circuit for PTC element and PID functionality
-— rewritten webserver with file system
-— software based real-time clock + sync via NTP
+* access point mode with wifi manager
+* MAX31865 based circuit for PTC element and PID functionality
+* rewritten webserver with file system
+* software based real-time clock + sync via NTP
 
 All hardware, schematics, design documentation, firmware and additional files will be released as an Open Source Hardware Project under a suitable license such as MIT or Creative Commons - Attribution - ShareAlike 3.0.
