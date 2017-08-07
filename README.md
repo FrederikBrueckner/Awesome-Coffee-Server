@@ -17,4 +17,4 @@ Things that will be implemented in future versions:
 — rewritten webserver with file system
 — software based real-time clock + sync via NTP
 
-All hardware, schematics, design documentation, firmware and additional files will be released as an Open Source Hardware Project under the MIT license.
+All hardware, schematics, design documentation, firmware and additional files will be released as an Open Source Hardware Project under a suitable license such as MIT or Creative Commons - Attribution - ShareAlike 3.0.
